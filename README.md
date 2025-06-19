@@ -36,6 +36,7 @@
 8. `Создание проекта "my-new-project180625"`
 9. `Установка gitlab-runner и регистрация`
 
+`На скриншоте с ативностью runner и его конфигам - разные т.к. предыдущий был удалён до сохранения настроек и был пересоздан`
 
 `При необходимости прикрепитe сюда скриншоты
 ![runner.png] <img src = "img/runner.png" width = 100%>
@@ -69,7 +70,7 @@ test-job:
     expire_in: 1 hour
 ```
 
-![pipline.png] <img src = "pipline.png" width = 100%>
+![pipline.png] <img src = "img/pipline.png" width = 100%>
 
 
 ---
